@@ -36,15 +36,19 @@ For initialization.
 git add *
 ```
 For adding.
-
+![alt text](https://github.com/hassanahmed3286/main/blob/main/Adding%20all%20files.jpg)
 ```bash
 git commit -am "Your comment"
 ```
 For committing. While committing you have to add a comment.
 
+
+![alt text](https://github.com/hassanahmed3286/main/blob/main/Committing.jpg)
 ```bash
 git push -u
 ```
 For publishing the project.
 
+
+![alt text](https://github.com/hassanahmed3286/main/blob/main/Publishing.jpg)
 
