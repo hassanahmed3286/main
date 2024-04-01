@@ -16,7 +16,7 @@ In this assignment we have to publish the project on github. Following Are the c
 git remote add origin <Link to GitHub Repo>
 ```
 For adding origin.
-
+![alt text](https://github.com/hassanahmed3286/main/blob/main/Adding%20origin.jpg)
 ```bash
 git remote -v
 ```
