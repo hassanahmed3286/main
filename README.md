@@ -22,10 +22,15 @@ git remote -v
 ```
 To verify the repository.
 
+
+![alt text](https://github.com/hassanahmed3286/main/blob/main/verifing%20origin.jpg)
 ```bash
 git init
 ```
 For initialization.
+
+![alt text](https://github.com/hassanahmed3286/main/blob/main/Initiatlization.jpg)
+
 
 ```bash
 git add *
